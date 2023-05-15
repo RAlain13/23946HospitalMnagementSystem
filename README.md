@@ -75,7 +75,7 @@ oc expose springboot-sample-app --hostname=www.example.com
 ![23](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/015423bc-6e58-4804-a34e-24f54079b816)
 
 
-## Copyright @soumyadip007
+## Copyright @RAlain13
 ```shell
 /**
  * 
@@ -83,5 +83,8 @@ oc expose springboot-sample-app --hostname=www.example.com
  * @github RAlain13
  *
  */
-
+```
+## DB Diagram
+```shell
+![DBdiagram](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/d7f1db0c-cb51-4c67-936e-de8a6a7da3d5)
 ```
