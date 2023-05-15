@@ -47,17 +47,17 @@ oc expose springboot-sample-app --hostname=www.example.com
 
 # User Panel :
 
-<img src="./bioMedical/img/2.png" >
-<img src="./bioMedical/img/3.png" >
-<img src="./bioMedical/img/4.png" >
-<img src="./bioMedical/img/5.png" >
-<img src="./bioMedical/img/6.png" >
-<img src="./bioMedical/img/7.png" >
-<img src="./bioMedical/img/8.png" >
-<img src="./bioMedical/img/9.png" >
-<img src="./bioMedical/img/10.png" >
-<img src="./bioMedical/img/11.png" >
-<img src="./bioMedical/img/12.png" >
+![2](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/c5839376-bbbb-4363-9877-264bdaf3972b)
+![3](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/5303c90d-c49c-4c2e-8eb4-cde6b3608384)
+![4](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/50edd40f-0b54-4afe-b96f-e8b13cc511ae)
+![5](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/11604d78-a52d-4943-9a73-5f65a831ea32)
+![6](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/c67d041a-de90-4861-825e-78367dc64352)
+![7](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/46b7d819-8887-4d66-a0a5-eb9026f0d60a)
+![8](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/0df49c43-d94b-4627-b1b0-948dd8a933e1)
+![9](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/37df6401-4783-4a57-8752-882a338b3b82)
+![10](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/d144f328-1cbb-4d16-a8b5-c34edfa79205)
+![11](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/e7668ea4-e143-4d8a-bd51-1bc5b5385fc8)
+![12](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/cc0f3df8-a2ba-4e17-aa6e-1f149de87556)
 
 # Doctor Panel (Dashboard Access):
 
