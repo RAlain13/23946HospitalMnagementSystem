@@ -85,5 +85,5 @@ oc expose springboot-sample-app --hostname=www.example.com
  */
 ```
 ## DB Diagram
-![DBdiagram](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/d7f1db0c-cb51-4c67-936e-de8a6a7da3d5)
+![hospitalDB](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/71c1ae50-4d9f-438e-afe0-3bebff7319cd)
 
