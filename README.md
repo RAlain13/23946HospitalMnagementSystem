@@ -43,7 +43,7 @@ If you want to access the app from outside your OpenShift installation, you have
 oc expose springboot-sample-app --hostname=www.example.com
 ```
 
-<img src="./bioMedical/img/1.png" >
+![1](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/1175db45-fa1d-4f55-a9d1-17b71a53d8e3)
 
 # User Panel :
 
