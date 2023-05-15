@@ -53,9 +53,6 @@ oc expose springboot-sample-app --hostname=www.example.com
 ![5](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/11604d78-a52d-4943-9a73-5f65a831ea32)
 ![6](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/c67d041a-de90-4861-825e-78367dc64352)
 ![7](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/46b7d819-8887-4d66-a0a5-eb9026f0d60a)
-![8](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/0df49c43-d94b-4627-b1b0-948dd8a933e1)
-![9](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/37df6401-4783-4a57-8752-882a338b3b82)
-![10](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/d144f328-1cbb-4d16-a8b5-c34edfa79205)
 ![11](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/e7668ea4-e143-4d8a-bd51-1bc5b5385fc8)
 ![12](https://github.com/RAlain13/23946HospitalMnagementSystem/assets/114587679/cc0f3df8-a2ba-4e17-aa6e-1f149de87556)
 
